@@ -1,9 +1,9 @@
 # Edge-engine
 
 [![CI Status](https://img.shields.io/travis/48580461/EdgeEngine.svg?style=flat)](https://travis-ci.org/48580461/EdgeEngine.git)
-[![Version](https://img.shields.io/cocoapods/v/EdgeEngine.svg?style=flat)](file:///Users/edgedev/Documents/Pod/EdgeEngine.git)
-[![License](https://img.shields.io/cocoapods/l/EdgeEngine.svg?style=flat)](file:///Users/edgedev/Documents/Pod/EdgeEngine.git)
-[![Platform](https://img.shields.io/cocoapods/p/EdgeEngine.svg?style=flat)](file:///Users/edgedev/Documents/Pod/EdgeEngine.git)
+[![Version](https://img.shields.io/cocoapods/v/EdgeEngine.svg?style=flat)](https://github.com/Msaimarshad/EdgeEngine.git)
+[![License](https://img.shields.io/cocoapods/l/EdgeEngine.svg?style=flat)](https://github.com/Msaimarshad/EdgeEngine.git)
+[![Platform](https://img.shields.io/cocoapods/p/EdgeEngine.svg?style=flat)](https://github.com/Msaimarshad/EdgeEngine.git)
 
 Visit our [landing page](https://www.edgestore.ai) to learn more about our product or directly visit our [store](https://store.edgestore.ai/) to browse various models. We support following domains in the current sdk version:
 - Image Processing

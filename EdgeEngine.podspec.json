@@ -4,14 +4,14 @@
   "summary": "Edge SDK for running Edge Models",
   "swift_versions": "5.0",
   "description": "Edge-engine is a simple yet powerful interface to port ML models to phone devices. It automates the underlying hardware utilization and switches between CPU/GPU when required to give maximum throughput.",
-  "homepage": "file:///Users/edgedev/Documents/Pod/EdgeEngine.git",
+  "homepage": "https://github.com/Msaimarshad/EdgeEngine.git",
   "license": {
     "type": "Edge Engine EULA",
     "file": "LICENSE"
   },
   "authors":  "Edge",
   "source": {
-    "git": "file:///Users/edgedev/Documents/Pod/EdgeEngine.git",
+    "git": "https://github.com/Msaimarshad/EdgeEngine.git",
     "tag": "0.0.1"
   },
   "platforms": {
